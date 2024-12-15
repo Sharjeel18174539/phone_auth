@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1016933907693",
+    "project_id": "fir-chat-38490",
+    "storage_bucket": "fir-chat-38490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016933907693:android:80d70c3e3a304109e1a0e4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016933907693-465ad8t3r64qnvcgfajacd0ffsj4kqp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3H6otXgJSnUSvJqj0yPXl2d5Vgydl2tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016933907693-465ad8t3r64qnvcgfajacd0ffsj4kqp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016933907693-1hb8423eq416223tmkqt6j8kvs4k0kmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phoneAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016933907693:android:b15999d2441c8b0ae1a0e4",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016933907693-465ad8t3r64qnvcgfajacd0ffsj4kqp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3H6otXgJSnUSvJqj0yPXl2d5Vgydl2tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016933907693-465ad8t3r64qnvcgfajacd0ffsj4kqp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016933907693-1hb8423eq416223tmkqt6j8kvs4k0kmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phoneAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
